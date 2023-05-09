@@ -1,0 +1,294 @@
+body {
+
+    background: url(VRAI.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: static;
+}
+
+.container-fluid {
+    display: flex;
+    position: fixed;
+    color: aliceblue;
+}
+
+.yy {
+    text-align: center;
+}
+
+.OK {
+    text-align: center;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.ko {
+    text-align: center;
+    color: white;
+    padding-bottom: 100px;
+}
+
+.dd {
+    text-align: center;
+}
+
+.bn {
+    background-color: brown;
+    height: 5px;
+    width: 200px;
+}
+
+.nn {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid red;
+}
+
+.qq {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid rosybrown;
+}
+
+.hh {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid khaki;
+}
+
+.vv {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border: 5px solid orangered;
+}
+
+nav {
+    background-color: transparent;
+}
+
+.kk {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid green;
+}
+
+.ww {
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid green;
+}
+
+.image {
+    float: right;
+    display: flex;
+}
+
+.fce {
+    width: auto;
+    height: 10px;
+}
+
+.ytu {
+    width: auto;
+    height: 10px
+}
+
+.mad {
+
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.cc {
+    color: white;
+}
+
+.apropos {
+    display: flex;
+}
+
+
+.regina {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+}
+
+
+
+
+.issouf {
+    justify-content: space-between;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+}
+.imageb{display: flex; justify-content: center;}
+
+
+.is span {
+    background-color: rgb(13, 255, 0);
+
+}
+
+
+.bon {
+    width: 25%;
+    height: 7px;
+    background-color: brown;
+    margin-left: 37%;
+    margin-bottom: -2%;
+
+}
+
+
+.cool {
+    width: 95%;
+    height: 2px;
+    background-color: brown;
+    margin: 2%;
+}
+
+
+
+.papa {
+
+    width: 500px;
+    height: 400px;
+    margin: 25px;
+
+}
+
+.mama {
+    width: 500px;
+    height: 400px;
+    margin: 25px;
+    margin-left: 80px;
+    margin-top: 200px;
+}
+
+.d5 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.hr1 {
+    text-align: center;
+
+    background-color: yellow;
+    width: 150px;
+    height: 10px;
+    border-radius: 15px;
+}
+
+.hr5 {
+
+    background-color: blue;
+    width: 150px;
+    height: 10px;
+    border-radius: 15px;
+}
+
+.hr2 {
+
+    background-color: rgb(27, 185, 13);
+    width: 150px;
+    height: 10px;
+    border-radius: 15px;
+}
+
+.hr3 {
+
+    background-color: rgb(44, 172, 163);
+    width: 150px;
+    height: 10px;
+    border-radius: 15px;
+}
+
+.hr4 {
+
+    background-color: red;
+    width: 150px;
+    height: 10px;
+    border-radius: 15px;
+}
+
+.t6 {
+    color: white;
+}
+
+.fo {
+    color: aliceblue;
+    text-align: center;
+}
+
+.left {
+
+    margin-top: 10px;
+}
+
+
+.right {
+    margin-top: 100px;
+}
+
+
+.reg {
+    background-color: transparent;
+    color: white;
+}
+
+
+
+.display{ display: flex;}
+
+
+.row1{ display: flex; }
+.is {
+    width: 1px;
+    height: 700px;
+    background-color: rgb(209, 12, 12);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -35px;
+
+}
+
+.is span{ 
+    display: block;
+    width: 50px;
+height: 50px; 
+background-color: blue;
+position: relative;
+right: 25px;
+top: 90px; 
+
+border-radius: 50px;}
+
+.salif{
+ background-color: rgb(255, 0, 251);
+margin-top: 290px
+}
+
+
